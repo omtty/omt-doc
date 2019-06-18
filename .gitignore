@@ -1,0 +1,7 @@
+lib
+omt-docs
+build
+yarn-error.log
+node_modules
+.omt.doc
+.DS_Store
