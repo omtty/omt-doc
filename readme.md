@@ -14,7 +14,7 @@ yarn install
 npm run dev
 ```
 ## Demo 效果图
-[效果图](./snapshot.png)
+![效果图](./snapshot.png)
 
 ## 用法
 
