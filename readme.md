@@ -13,11 +13,13 @@ md 文档 ----> markdown 解析生成 js 对象 ----> 读取 js 对象生成网�
 yarn install
 npm run dev
 ```
+## Demo 效果图
+[效果图](./snapshot.png)
 
 ## 用法
 
 ```shell
-yarn add @omt/doc
+yarn add @omtty/doc
 ```
 
 添加 script 命令

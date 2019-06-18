@@ -1,6 +1,6 @@
 {
   "name": "@omtty/doc",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "React文档系统",
   "main": "index.js",
   "bin": {
@@ -15,7 +15,7 @@
   "scripts": {
     "build": "rimraf lib && babel src --out-dir lib",
     "publish": "npm publish --access=public --registry https://registry.npmjs.org",
-    "unpublish": "npm unpublish @omtty/doc@1.0.0 --access=public --registry https://registry.npmjs.org"
+    "unpublish": "npm unpublish @omtty/doc@1.2.0 --access=public --registry https://registry.npmjs.org"
   },
   "keywords": [
     "docs",

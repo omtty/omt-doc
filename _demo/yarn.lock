@@ -61,12 +61,13 @@
     "@babel/runtime" "^7.4.4"
     hoist-non-react-statics "^3.3.0"
 
-"@omtty/doc@^1.0.0":
-  version "1.0.0"
-  resolved "http://nexus3.dianjia.io/repository/npm-group/@omtty/doc/-/doc-1.0.0.tgz#2b104698685841eab9f27f6d389ece7d783777d9"
-  integrity sha1-KxBGmGhYQeq58n9tOJ7OfXg3d9k=
+"@omtty/doc@1.2.0", "@omtty/doc@^1.0.0":
+  version "1.2.0"
+  resolved "https://registry.npmjs.org/@omtty/doc/-/doc-1.2.0.tgz#8f9e09c7bb24e755634e959e61be8d396d3c016d"
+  integrity sha512-QsoYjx0EJ9iN+Q1EV8Ux6PtvZ3GO0iqEte55Lfl5xUaBagWS6uIPeG4BLeFb1/ccfjG1oxqu1FVtxMzSjUJZFw==
   dependencies:
     "@loadable/component" "^5.10.1"
+    "@omtty/doc" "^1.0.0"
     "@omtty/webpack" "1.0.0"
     babel-cli "^6.26.0"
     babel-plugin-add-module-exports "^0.2.1"
